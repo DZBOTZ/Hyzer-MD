@@ -1,7 +1,7 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['18254857668'] 
+global.mods = ['18254857668'] 
+global.prems = ['18254857668'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Hyzer Official'
